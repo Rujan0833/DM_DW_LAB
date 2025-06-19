@@ -1,1 +1,1 @@
-# DM_DW_LAB
+# Data Warehousing and Data MiningData Warehousing and Data Mining LAB
